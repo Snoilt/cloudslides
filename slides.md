@@ -3,11 +3,11 @@ title: "Multi-Cloud-Management: Eine kurze Einführung"
 layout: cover
 ---
 
-<!-- Guten Tag, mein Name ist Paul Oellers. Ich begrüße Sie herzlich zu meiner Präsentation über Multi-Cloud-Management im Rahmen des Moduls Wissenschaftliches Arbeiten. -->
+<!-- Guten Tag, mein Name ist Paul Oellers. Ich begrüße Sie herzlich zu meiner Präsentation über Multi-Cloud-Management im Rahmen des Moduls Wissenschaftliches Arbeiten.
 
-<!-- Heute gebe ich Ihnen einen Überblick darüber, was Multi-Cloud-Management bedeutet, wie es in Unternehmen eingesetzt wird und welche Chancen und Herausforderungen damit verbunden sind. -->
+Heute gebe ich Ihnen einen Überblick darüber, was Multi-Cloud-Management bedeutet, wie es in Unternehmen eingesetzt wird und welche Chancen und Herausforderungen damit verbunden sind.
 
-<!-- Ziel dieser Präsentation ist es, Ihnen die wichtigsten Konzepte, Anwendungsfälle und Zukunftstrends rund um Multi-Cloud näherzubringen, sodass Sie das Thema strategisch einordnen können. -->
+ Ziel dieser Präsentation ist es, Ihnen die wichtigsten Konzepte, Anwendungsfälle und Zukunftstrends rund um Multi-Cloud näherzubringen, sodass Sie das Thema strategisch einordnen können. -->
 
 <div class="flex flex-col justify-center h-full px-16  whitespace-nowrap">
 
@@ -38,9 +38,10 @@ layout: center
 5. Zukunft von Multi-Cloud
 6. Q&A
 
-<!-- Lassen Sie uns zunächst einen kurzen Überblick über die Struktur dieser Präsentation geben, damit Sie wissen, was Sie erwartet. -->
-
 <!--
+Lassen Sie uns zunächst einen kurzen Überblick über die Struktur dieser Präsentation geben, damit Sie wissen, was Sie erwartet. 
+
+
 Am Ende der Präsentation können Sie gerne Ihre Fragen stellen, oder wenn Sie möchten, auch während der Präsentation, wenn etwas unklar ist.
 -->
 
@@ -78,13 +79,13 @@ _(Quelle: Flexera Report)_
 
 </div>
 
-<!-- Multi-Cloud bedeutet also, dass Unternehmen nicht nur einen Cloud-Anbieter nutzen, sondern mehrere parallel einsetzen. -->
-
-<!-- Die Motivation dahinter ist vielfältig: Zum einen wollen Unternehmen sich nicht von einem einzigen Anbieter abhängig machen, also den sogenannten Vendor Lock-in vermeiden. -->
-
-<!-- Zum anderen können sie so die spezialisierten Dienste der verschiedenen Anbieter nutzen und durch redundante Architekturen eine höhere Verfügbarkeit sicherstellen. -->
-
 <!--
+Multi-Cloud bedeutet also, dass Unternehmen nicht nur einen Cloud-Anbieter nutzen, sondern mehrere parallel einsetzen. 
+
+Die Motivation dahinter ist vielfältig: Zum einen wollen Unternehmen sich nicht von einem einzigen Anbieter abhängig machen, also den sogenannten Vendor Lock-in vermeiden.
+
+Zum anderen können sie so die spezialisierten Dienste der verschiedenen Anbieter nutzen und durch redundante Architekturen eine höhere Verfügbarkeit sicherstellen.
+
 Die hohe Verbreitung von Multi-Cloud-Strategien zeigt, wie relevant dieses Thema heute ist.
 -->
 
@@ -123,11 +124,12 @@ pie showData title Marktanteile (Q4 2024)
 
 _(Quelle: Synergy Research Group)_
 
-<!-- Hier sehen wir die größten Cloud-Anbieter und deren Marktanteile, um ein Gefühl für die Marktsituation zu bekommen. -->
-
-<!-- AWS ist klarer Marktführer, gefolgt von Microsoft Azure, die vor allem im Enterprise-Bereich stark sind. -->
-
 <!--
+Hier sehen wir die größten Cloud-Anbieter und deren Marktanteile, um ein Gefühl für die Marktsituation zu bekommen. 
+
+AWS ist klarer Marktführer, gefolgt von Microsoft Azure, die vor allem im Enterprise-Bereich stark sind. 
+
+
 Google Cloud punktet besonders im Bereich künstliche Intelligenz, während Alibaba Cloud in Asien eine bedeutende Rolle spielt.
 -->
 
@@ -181,15 +183,16 @@ layout: center
 
 </div>
 
-<!-- In der Praxis nutzen Unternehmen die Stärken der verschiedenen Cloud-Anbieter gezielt aus. -->
-
-<!-- So wird AWS häufig für umfangreiche Datenanalysen verwendet, während Azure mit seinen Sicherheitsdiensten punktet. -->
-
-<!-- Google Cloud ist eine beliebte Plattform für Machine Learning und KI-Anwendungen. -->
-
-<!-- Ergänzt wird dies oft durch Private Clouds, um sensible Daten besonders geschützt und DSGVO-konform zu hosten. -->
-
 <!--
+In der Praxis nutzen Unternehmen die Stärken der verschiedenen Cloud-Anbieter gezielt aus. 
+
+So wird AWS häufig für umfangreiche Datenanalysen verwendet, während Azure mit seinen Sicherheitsdiensten punktet. 
+
+ Google Cloud ist eine beliebte Plattform für Machine Learning und KI-Anwendungen. 
+
+ Ergänzt wird dies oft durch Private Clouds, um sensible Daten besonders geschützt und DSGVO-konform zu hosten. 
+
+
 Durch die Kombination dieser Plattformen erreichen Unternehmen eine maximale Effizienz und bleiben unabhängig.
 -->
 
@@ -229,13 +232,14 @@ layout: center
 
 </div>
 
-<!-- Die Vorteile von Multi-Cloud liegen klar auf der Hand: Unternehmen können flexibel die besten Dienste auswählen, die Ausfallsicherheit erhöhen und Kosten optimieren. -->
-
-<!-- Gleichzeitig reduziert sich die Abhängigkeit von einem einzelnen Anbieter, was die strategische Position stärkt. -->
-
-<!-- Allerdings bringt Multi-Cloud auch Herausforderungen mit sich, wie die komplexe Verwaltung verschiedener Plattformen und die Integration unterschiedlicher Dienste. -->
-
 <!--
+Die Vorteile von Multi-Cloud liegen klar auf der Hand: Unternehmen können flexibel die besten Dienste auswählen, die Ausfallsicherheit erhöhen und Kosten optimieren. 
+
+Gleichzeitig reduziert sich die Abhängigkeit von einem einzelnen Anbieter, was die strategische Position stärkt. 
+
+ Allerdings bringt Multi-Cloud auch Herausforderungen mit sich, wie die komplexe Verwaltung verschiedener Plattformen und die Integration unterschiedlicher Dienste. 
+
+
 Auch die Kostenkontrolle wird schwieriger, ebenso wie die Einhaltung verschiedener Sicherheits- und Compliance-Vorgaben.
 -->
 
